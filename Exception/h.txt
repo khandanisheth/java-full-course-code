@@ -1,0 +1,20 @@
+Throwable
+│
+├── Exception
+│   ├── IOException
+│   ├── SQLException
+│   ├── ClassNotFoundException
+│   ├── RuntimeException
+│   │   ├── ArithmeticException
+│   │   ├── NullPointerException
+│   │   ├── ArrayIndexOutOfBoundsException
+│   │   ├── IllegalArgumentException
+│   │   ├── NumberFormatException
+│   │   └── ...
+│   └── ...
+│
+└── Error
+    ├── StackOverflowError
+    ├── OutOfMemoryError
+    ├── VirtualMachineError
+    └── ...
