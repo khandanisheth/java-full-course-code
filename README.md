@@ -71,7 +71,8 @@ Each folder focuses on a specific concept:
 ## 👨‍💻 Author
 
 **Mohammad Danish**  
-📧 Contact for queries: [your-email@example.com]  
+📧 Contact for queries: khandanishindia04@gmail.com
+
 🛡️ Rights Reserved © 2025
 
 ---
